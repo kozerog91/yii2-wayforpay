@@ -1,0 +1,21 @@
+{
+  "name": "kozerog/yii2-wayforpay",
+  "description": "Yii2 WayForPay Component",
+  "type": "yii2-extension",
+  "keywords": ["yii2", "yii 2", "wayforpay"],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Roman Gonchar",
+      "email": "roman.gonchar92@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "kozerog91\\wayforpay\\": "src/"
+    }
+  }
+}
